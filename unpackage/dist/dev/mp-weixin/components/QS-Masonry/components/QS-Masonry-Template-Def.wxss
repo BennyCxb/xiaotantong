@@ -1,0 +1,67 @@
+view.data-v-1ae2d651,
+scroll-view.data-v-1ae2d651,
+swiper.data-v-1ae2d651,
+swiper-item.data-v-1ae2d651,
+cover-view.data-v-1ae2d651,
+cover-image.data-v-1ae2d651,
+icon.data-v-1ae2d651,
+text.data-v-1ae2d651,
+rich-text.data-v-1ae2d651,
+progress.data-v-1ae2d651,
+button.data-v-1ae2d651,
+checkbox.data-v-1ae2d651,
+form.data-v-1ae2d651,
+input.data-v-1ae2d651,
+label.data-v-1ae2d651,
+radio.data-v-1ae2d651,
+slider.data-v-1ae2d651,
+switch.data-v-1ae2d651,
+textarea.data-v-1ae2d651,
+navigator.data-v-1ae2d651,
+audio.data-v-1ae2d651,
+camera.data-v-1ae2d651,
+image.data-v-1ae2d651,
+video.data-v-1ae2d651,
+picker-view.data-v-1ae2d651,
+picker-view-column.data-v-1ae2d651 {
+	box-sizing: border-box;
+}
+.container.data-v-1ae2d651{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	border-radius: 10rpx;
+	overflow: hidden;
+	padding: 15rpx;
+	background-color: #fff;
+}
+.image-box.data-v-1ae2d651{
+	width: 100%;
+	position: relative;
+	height: 0;
+	padding-top: 100%;
+}
+.image.data-v-1ae2d651{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	border-top-left-radius: 20rpx;
+	border-top-right-radius: 20rpx;
+}
+.img.data-v-1ae2d651{
+	width: 100%;
+	height: auto;
+}
+.text.data-v-1ae2d651{
+	font-size: 28rpx;
+	color: #999999;
+	margin-top: 25rpx;
+}
+
