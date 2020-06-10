@@ -1,32 +1,32 @@
-view.data-v-1ae2d651,
-scroll-view.data-v-1ae2d651,
-swiper.data-v-1ae2d651,
-swiper-item.data-v-1ae2d651,
-cover-view.data-v-1ae2d651,
-cover-image.data-v-1ae2d651,
-icon.data-v-1ae2d651,
-text.data-v-1ae2d651,
-rich-text.data-v-1ae2d651,
-progress.data-v-1ae2d651,
-button.data-v-1ae2d651,
-checkbox.data-v-1ae2d651,
-form.data-v-1ae2d651,
-input.data-v-1ae2d651,
-label.data-v-1ae2d651,
-radio.data-v-1ae2d651,
-slider.data-v-1ae2d651,
-switch.data-v-1ae2d651,
-textarea.data-v-1ae2d651,
-navigator.data-v-1ae2d651,
-audio.data-v-1ae2d651,
-camera.data-v-1ae2d651,
-image.data-v-1ae2d651,
-video.data-v-1ae2d651,
-picker-view.data-v-1ae2d651,
-picker-view-column.data-v-1ae2d651 {
+view.data-v-c0da3090,
+scroll-view.data-v-c0da3090,
+swiper.data-v-c0da3090,
+swiper-item.data-v-c0da3090,
+cover-view.data-v-c0da3090,
+cover-image.data-v-c0da3090,
+icon.data-v-c0da3090,
+text.data-v-c0da3090,
+rich-text.data-v-c0da3090,
+progress.data-v-c0da3090,
+button.data-v-c0da3090,
+checkbox.data-v-c0da3090,
+form.data-v-c0da3090,
+input.data-v-c0da3090,
+label.data-v-c0da3090,
+radio.data-v-c0da3090,
+slider.data-v-c0da3090,
+switch.data-v-c0da3090,
+textarea.data-v-c0da3090,
+navigator.data-v-c0da3090,
+audio.data-v-c0da3090,
+camera.data-v-c0da3090,
+image.data-v-c0da3090,
+video.data-v-c0da3090,
+picker-view.data-v-c0da3090,
+picker-view-column.data-v-c0da3090 {
 	box-sizing: border-box;
 }
-.container.data-v-1ae2d651{
+.container.data-v-c0da3090{
 	width: 100%;
 	display: -webkit-box;
 	display: -webkit-flex;
@@ -40,13 +40,13 @@ picker-view-column.data-v-1ae2d651 {
 	padding: 15rpx;
 	background-color: #fff;
 }
-.image-box.data-v-1ae2d651{
+.image-box.data-v-c0da3090{
 	width: 100%;
 	position: relative;
 	height: 0;
 	padding-top: 100%;
 }
-.image.data-v-1ae2d651{
+.image.data-v-c0da3090{
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -55,11 +55,11 @@ picker-view-column.data-v-1ae2d651 {
 	border-top-left-radius: 20rpx;
 	border-top-right-radius: 20rpx;
 }
-.img.data-v-1ae2d651{
+.img.data-v-c0da3090{
 	width: 100%;
 	height: auto;
 }
-.text.data-v-1ae2d651{
+.text.data-v-c0da3090{
 	font-size: 28rpx;
 	color: #999999;
 	margin-top: 25rpx;

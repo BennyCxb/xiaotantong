@@ -1,0 +1,1 @@
+<view class="search-box"><uni-icons class="icon-search" vue-id="708d31af-1" type="search" size="20" color="#666" bind:__l="__l"></uni-icons><input type="text" placeholder="搜索" value=""/></view>

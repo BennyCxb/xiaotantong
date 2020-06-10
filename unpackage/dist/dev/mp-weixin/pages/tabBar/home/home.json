@@ -2,6 +2,8 @@
   "navigationBarTitleText": "首页",
   "usingComponents": {
     "u-link": "/components/uLink",
-    "q-s-masonry": "/components/QS-Masonry/QS-Masonry"
+    "q-s-masonry": "/components/QS-Masonry/QS-Masonry",
+    "nav": "/components/zq-Nav/zq-Nav",
+    "search": "/components/zq-Nav/zq-Search"
   }
 }
